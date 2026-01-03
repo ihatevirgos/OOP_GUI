@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ButtonTest/ButtonTest.iml" filepath="$PROJECT_DIR$/ButtonTest/ButtonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GUI.iml" filepath="$PROJECT_DIR$/.idea/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI_JLabel/GUI_JLabel.iml" filepath="$PROJECT_DIR$/GUI_JLabel/GUI_JLabel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JCheckBox/JCheckBox.iml" filepath="$PROJECT_DIR$/JCheckBox/JCheckBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JTextField/JTextField.iml" filepath="$PROJECT_DIR$/JTextField/JTextField.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gui_practice/gui_practice.iml" filepath="$PROJECT_DIR$/gui_practice/gui_practice.iml" />
+    </modules>
+  </component>
+</project>
